@@ -1,0 +1,15 @@
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (семинары)\1Семинар\Seminar1\1Zadacha\obj\Debug\net6.0\1Zadacha.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (семинары)\1Семинар\Seminar1\1Zadacha\obj\Debug\net6.0\1Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (семинары)\1Семинар\Seminar1\1Zadacha\obj\Debug\net6.0\1Zadacha.AssemblyInfoInputs.cache
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (семинары)\1Семинар\Seminar1\1Zadacha\obj\Debug\net6.0\1Zadacha.AssemblyInfo.cs
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (семинары)\1Семинар\Seminar1\1Zadacha\obj\Debug\net6.0\1Zadacha.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (семинары)\1Семинар\Seminar1\1Zadacha\bin\Debug\net6.0\1Zadacha.exe
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (семинары)\1Семинар\Seminar1\1Zadacha\bin\Debug\net6.0\1Zadacha.deps.json
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (семинары)\1Семинар\Seminar1\1Zadacha\bin\Debug\net6.0\1Zadacha.runtimeconfig.json
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (семинары)\1Семинар\Seminar1\1Zadacha\bin\Debug\net6.0\1Zadacha.dll
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (семинары)\1Семинар\Seminar1\1Zadacha\bin\Debug\net6.0\1Zadacha.pdb
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (семинары)\1Семинар\Seminar1\1Zadacha\obj\Debug\net6.0\1Zadacha.dll
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (семинары)\1Семинар\Seminar1\1Zadacha\obj\Debug\net6.0\refint\1Zadacha.dll
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (семинары)\1Семинар\Seminar1\1Zadacha\obj\Debug\net6.0\1Zadacha.pdb
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (семинары)\1Семинар\Seminar1\1Zadacha\obj\Debug\net6.0\1Zadacha.genruntimeconfig.cache
+C:\Users\Руслан\Desktop\Програмирование\Знакомство с языками программирования (семинары)\1Семинар\Seminar1\1Zadacha\obj\Debug\net6.0\ref\1Zadacha.dll
